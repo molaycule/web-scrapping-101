@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "cheerio": "*",
+    "crawlee": "^3.0.4",
     "got-scraping": "^3.2.10",
     "json2csv": "^5.0.7"
   }
